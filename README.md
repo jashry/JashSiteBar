@@ -1,2 +1,0 @@
-# JashSiteBar
-Created with CodeSandbox
